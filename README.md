@@ -1,0 +1,2 @@
+# night_study_helper_linebot
+用linebot實現夜讀區座位預約的系統
