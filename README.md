@@ -3,7 +3,7 @@
 如果您有預約"真正"夜讀區的需求，請走 https://libsms.lib.nthu.edu.tw/build  
   
   
-- 同上，由於我也沒有"真正"的清大學生資料表，因此資料庫裡的學生資料是用data_generator裡頭的user_generator.ipynb生成的隨機資料，並非真實的在讀清大生。意即，這裡無法使用"真正"的清大學生身分登入，因為資料庫裡沒有。  
+- 同上，由於我也沒有 "真正" 的清大學生資料表，因此資料庫裡的學生資料是用 data_generator 裡頭的 user_generator.ipynb 生成的隨機資料，並非真實的在讀清大生。意即，這裡無法使用 "真正" 的清大學生身分登入，因為資料庫裡沒有。  
 如果想要體驗這個bot的功能的話，可以來信 tc.chang@gapp.nthu.edu.tw，向我索取一個用戶身分。  
   
   
